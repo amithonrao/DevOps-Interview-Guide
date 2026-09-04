@@ -24,6 +24,10 @@ Each file is one interview experience. If a company was interviewed at more than
 
 Submissions that never named a company live under `Others/`.
 
+## Browse by topic
+
+The original company-wise interview write-ups are preserved. For focused preparation, use the generated [topic-wise collection](<Interview questions/README.md>) to browse questions about AWS, Kubernetes, Terraform, Helm, Argo CD, CI/CD, Docker, and more. Questions that genuinely cover multiple topics are included in each relevant section and link back to their original interview write-up.
+
 ## Using this
 
 Search the repo for a company name, or open its folder directly. If you're prepping broadly rather than for one company, skim a handful of folders across different company sizes (product companies, service companies like TCS/Infosys/Wipro, fintech, etc.) — the range of questions tells you more than any single list.
